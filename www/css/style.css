@@ -1,0 +1,49 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-image: url(../img/fundo.jpg);
+  background-size: cover;
+  background-attachment: center-top;
+  
+}
+#titulo{
+  color: rgb(0, 0, 0);
+  font-size: 28px;
+  text-align: center;
+}
+#label{
+  color: white;
+}
+#jumbo{
+    background-color:  transparent;
+}
+#h2{
+  color:rgb(255, 255, 255);
+}
+#h3{
+  color:rgb(250,250,250);
+}
+#map{
+  width: 100%;
+  height: 250px;
+}
+
+.btn-mktg{
+  -webkit-appearance: none;
+    -webkit-user-select: none;
+    background-color: rgb(60,60,60);
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 16px 24px;
+    transition: .2s;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    margin-top: 30px;
+}
+#modalzin{
+  margin-top: 50px;
+}
